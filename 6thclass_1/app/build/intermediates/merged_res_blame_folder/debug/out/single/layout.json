@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\신초은\\.gradle\\daemon\\7.4\\com.example.a6thclass_1.app-mergeDebugResources-4:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\신초은\\.gradle\\daemon\\7.4\\com.example.a6thclass_1.app-main-7:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\신초은\\.gradle\\daemon\\7.4\\com.example.a6thclass_1.app-mergeDebugResources-4:\\layout\\fragment_setting.xml",
+        "source": "C:\\Users\\신초은\\.gradle\\daemon\\7.4\\com.example.a6thclass_1.app-main-7:\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "com.example.a6thclass_1.app-mergeDebugResources-4:/layout/activity_second.xml",
+        "source": "com.example.a6thclass_1.app-main-7:/layout/activity_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\신초은\\.gradle\\daemon\\7.4\\com.example.a6thclass_1.app-mergeDebugResources-4:\\layout\\item_list.xml",
+        "source": "C:\\Users\\신초은\\.gradle\\daemon\\7.4\\com.example.a6thclass_1.app-main-7:\\layout\\item_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\신초은\\.gradle\\daemon\\7.4\\com.example.a6thclass_1.app-mergeDebugResources-4:\\layout\\fragment_two.xml",
+        "source": "C:\\Users\\신초은\\.gradle\\daemon\\7.4\\com.example.a6thclass_1.app-main-7:\\layout\\fragment_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\신초은\\.gradle\\daemon\\7.4\\com.example.a6thclass_1.app-mergeDebugResources-4:\\layout\\activity_second.xml",
+        "source": "C:\\Users\\신초은\\.gradle\\daemon\\7.4\\com.example.a6thclass_1.app-main-7:\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\신초은\\.gradle\\daemon\\7.4\\com.example.a6thclass_1.app-mergeDebugResources-4:\\layout\\fragment_one.xml",
+        "source": "C:\\Users\\신초은\\.gradle\\daemon\\7.4\\com.example.a6thclass_1.app-main-7:\\layout\\fragment_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\신초은\\.gradle\\daemon\\7.4\\com.example.a6thclass_1.app-mergeDebugResources-4:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\신초은\\.gradle\\daemon\\7.4\\com.example.a6thclass_1.app-main-7:\\layout\\activity_main.xml"
+    }
+]
